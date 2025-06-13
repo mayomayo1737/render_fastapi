@@ -19,7 +19,7 @@ def index():
         </head>
         <body>
             <h1>Look me! HTML!</h1>
-            くぁｗせｄｒｆｔｇｙふじこｌｐ
+            死は人の完成だ
         </body>
     </html>
     """

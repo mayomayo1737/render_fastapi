@@ -18,7 +18,8 @@ def index():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>Look me! HTML!</h1>
+            くぁｗせｄｒｆｔｇｙふじこｌｐ
         </body>
     </html>
     """

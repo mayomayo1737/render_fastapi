@@ -12,7 +12,7 @@ from fastapi.responses import HTMLResponse #インポート
 
 @app.post("/present")
 async def give_present(present):
-    return {"response": f"サーバです。メリークリスマス！ {present}ありがとう。お返しはキャンディーです。"}  # f文字列というPythonの機能を使っている
+    return {"response": f"{present}をちからにかえるんだ..."}  # f文字列というPythonの機能を使っている
 
 @app.get("/index")
 def index():
